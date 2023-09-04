@@ -1,0 +1,13 @@
+.favourite-wrapper{
+    display: flex;
+    grid-gap: 20px;
+    padding: 100px;
+}
+
+.favourite-block{
+    border: 1px solid #FFF;
+    padding: 10px;
+    grid-row-gap: 10px;
+    display: flex;
+    flex-direction: column;
+}

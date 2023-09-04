@@ -1,0 +1,14 @@
+.currentLocation-section{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.currentLocation-section .currentLocation{
+    text-align: center;
+    color: #FFF;
+}
+
+.add-to-favourites{
+    cursor: pointer;
+}

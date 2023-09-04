@@ -1,0 +1,24 @@
+.weatherconditions-wrapper{
+    display: flex;
+    grid-gap:20px;
+    flex-wrap: wrap;
+}
+
+.weatherconditions-wrapper img{
+    max-width: 80px;
+}
+
+.weather-block{
+    color: #FFF;
+    background-color: blueviolet;
+    padding: 10px 10px;
+    border-radius: 4px;
+    flex: 0 0 28.8%;
+    text-align: center;
+}
+
+.sunrise-info{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
